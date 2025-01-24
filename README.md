@@ -1,12 +1,10 @@
-# Node script to generate Terraform script file & external data links for an environment
-
-## Name
-
-NodeJS script to generate terraform script file and create AppD Tier URL data links for the specified env
+# Node script to generate Terraform script file & external data links for an olly environment
 
 ## Description
 
-This project contains NodeJS script file to generate terraform script file and then create AppD Tier URL data links from a csv file (/data/linkFile.csv)
+NodeJS script to generate terraform script file and create AppD Tier URL data links for the specified olly env.
+
+This project contains NodeJS script file to generate terraform script file and then create AppD Tier URL data links from a csv file (eg: linkFile.csv)
 
 linkFile.csv needs to follow the below `specific pattern`
 
