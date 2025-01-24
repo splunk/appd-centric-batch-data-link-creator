@@ -1,0 +1,10 @@
+resource "signalfx_data_link" "appd_url_dl_{{resource_label}}" {
+  property_name        = "sf_service"
+  property_value       = "{{olly_service}}"
+
+  target_appd_url {
+    name        = "{{appd_link_label}}"
+    url         = "{{appd_link}}"
+  }
+}
+

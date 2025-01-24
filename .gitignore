@@ -1,0 +1,10 @@
+node_modules
+data/*.tf
+.terraform
+*.tfstate
+*.tfstate.backup
+externalLink_Plan
+.terraform.lock.hcl
+appDDatalink.tf
+appdLink_Plan
+APPD_LINK_TF_LOGS.log
