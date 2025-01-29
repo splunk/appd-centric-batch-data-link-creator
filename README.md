@@ -60,7 +60,3 @@ Below is a sample error log for an invalid Appd Link
 
 `Error: enter a valid AppD Link. The link needs to include the contoller URL, application ID, and Application component`
  
- ## Software notice
- The software in this container is licensed under and subject to the [Splunk General Terms](https://www.splunk.com/en_us/legal/splunk-general-terms.html).
-
-If you do not agree, do not access or use this software.
